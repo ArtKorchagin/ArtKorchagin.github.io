@@ -1,8 +1,12 @@
 [{
-	"relation": ["delegate_permission/common.handle_all_urls"],
-	"target": {
-		"namespace": "android_app",
-		"package_name": "ru.bankuralsib.mb.android.debug",
-		"sha256_cert_fingerprints": ["D3:9A:48:9F:7D:7E:32:2B:A6:D8:E6:5C:66:D2:96:16:D7:D2:2E:38:5B:DA:2C:EF:DD:77:BE:13:49:05:64:12"]
-	}
-}]
+      "source": {
+        "web": {
+          "site": "https://artkorchagin.github.io."
+        },
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+          "namespace": "android_app",
+          "package_name": "ru.bankuralsib.mb.android.debug",
+          "sha256_cert_fingerprints": ["D3:9A:48:9F:7D:7E:32:2B:A6:D8:E6:5C:66:D2:96:16:D7:D2:2E:38:5B:DA:2C:EF:DD:77:BE:13:49:05:64:12"]
+        }
+      }]
